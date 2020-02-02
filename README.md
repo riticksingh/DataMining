@@ -1,5 +1,6 @@
 # DataMining
 ## Topic Related to Data Mining
+* Data Structure
 * Data Types
 * Numpy
 * Scikit learn
@@ -16,4 +17,3 @@
 * Method Of data Frames
 * Visualization
 * Decision Tree
-* Data Structure
