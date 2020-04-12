@@ -1,20 +1,20 @@
 
 # Program 1: Create a file “people.txt” with the following data:
-Age	Age Group	Height	Status	Years Married
-21	adult	6.0	single	-1
-2	child	3	married	0
-18	adult	5.7	married	20
-221	elderly	5	widowed	2
-34	child	-7	married	3
-i) Read the data from the file “people.txt”.
-ii) Create a rule set E that contain rules to check for the following conditions :
-  The age should be in the range 0-150.
-  The age should be greater than years married.
-  The status should be married or single or widowed.
-  If age is less than 18 the age group should be child, if age is between 18 and 65 the age group should be adult, if age is     more than 65 the age group should be elderly.
-iii) Check whether rule set E is violated by the data in the file people.txt.
-iv) Summarize the results obtained in part(iii)
-v) Visualize the results obtained in part(iii)
+- Age	Age Group	Height	Status	Years Married
+- 21	adult	6.0	single	-1
+- 2	child	3	married	0
+- 18	adult	5.7	married	20
+- 221	elderly	5	widowed	2
+- 34	child	-7	married	3
+- i) Read the data from the file “people.txt”.
+- ii) Create a rule set E that contain rules to check for the following conditions :
+  - The age should be in the range 0-150.
+  - The age should be greater than years married.
+  - The status should be married or single or widowed.
+  - If age is less than 18 the age group should be child, if age is between 18 and 65 the age group should be adult, if age is more than 65 the age group should be elderly.
+- iii) Check whether rule set E is violated by the data in the file people.txt.
+- iv) Summarize the results obtained in part(iii)
+- v) Visualize the results obtained in part(iii)
 
 # Program 2 : Perform the following preprocessing tasks on the dirty_iris dataset.
 i) Calculate the number and percentage of observations that are complete.
